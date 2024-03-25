@@ -25,7 +25,7 @@ This project aims to analyze the economic consequences of climate change in deve
 
 
 ## Data Sources
-- Eurostat API: [https://ec.europa.eu/eurostat/data/database](https://ec.europa.eu/eurostat/data/database)
+- Eurostat API: [https://ec.europa.eu/eurostat/data/database?node_code=sdg_13_40(https://ec.europa.eu/eurostat/data/database)
 - Climate-Related Economic Losses Dataset: [https://www.climate-economy.io/data](https://www.climate-economy.io/data)
 
 ## Contributing
